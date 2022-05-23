@@ -1,0 +1,30 @@
+font { /* Стиль для элементов с class="textl" */  
+
+     font-size: 16pt; /* Размер шрифта */  
+
+     color: black; /* Цвет текста */
+
+      font-family: Arial /* Название шрифта */  
+     
+     }  
+
+font.text3 { /* Стиль для всех тегов FONT */  
+
+     font-size: 12pt; /* Размер шрифта */  
+
+     color: green; /* Цвет текста */  
+
+     font-family: Arial /* Название шрифта */  
+
+     }  
+
+font.text2 { /* Стиль для тегов FONT с class="text2" */  
+
+     font-size: 14pt; /* Размер шрифта */  
+
+     color: black; /* Цвет текста */  
+
+     font-family: Arial /* Название шрифта */  
+     
+
+     }
